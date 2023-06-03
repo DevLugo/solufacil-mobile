@@ -1,0 +1,9 @@
+.sidebar {
+    height: 100vh;
+    /*     margin-right: 24px;
+ */
+}
+
+.ant-drawer-content-wrapper {
+    width: 256px !important;
+}

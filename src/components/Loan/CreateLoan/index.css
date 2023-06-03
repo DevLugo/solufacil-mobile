@@ -1,0 +1,16 @@
+.ant-modal-content {
+    height: 98vh
+}
+
+.ant-steps.ant-steps-vertical {
+    flex-direction: initial;
+}
+
+.ant-table-tbody .ant-table-row:nth-child(odd) {
+    background-color: #D4D4D4;
+}
+
+.error {
+    border: 1.5px solid #ff4d4f;
+    border-radius: 5px !important;
+}

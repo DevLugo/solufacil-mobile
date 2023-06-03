@@ -1,0 +1,20 @@
+.navbar {
+    background-color: white;
+    padding-left: 2rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    position: sticky;
+    top: 0;
+    z-index: 2;
+}
+
+@media (min-width: 992px) {
+    .menu {
+        display: none;
+    }
+}
+
+.logo {
+    height: 32px;
+    margin-left: 1rem;
+}

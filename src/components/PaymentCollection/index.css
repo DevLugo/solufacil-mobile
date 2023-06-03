@@ -1,0 +1,4 @@
+.ant-switch.ant-switch-checked:hover:not(.ant-switch-disabled),
+.ant-switch.ant-switch-checked {
+    background: #ff4d4f;
+}
